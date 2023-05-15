@@ -1,5 +1,5 @@
 
-#Ai-Knows App Privacy Policy
+# Ai-Knows App Privacy Policy
 
 ## Welcome to Ai-Knows
 
